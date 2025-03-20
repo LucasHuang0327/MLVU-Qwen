@@ -1,0 +1,1165 @@
+2025-03-20 03:08:35 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:08:35 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:08:35 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:08:35 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:08:35 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:08:35 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:08:40 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-20 03:08:40 - ERROR - 处理结果时出错: Error code: 400 - {'error': {'code': 'data_inspection_failed', 'param': None, 'message': 'Input data may contain inappropriate content.', 'type': 'data_inspection_failed'}, 'id': 'chatcmpl-3d16fdd3-60ad-9330-88f6-abea9331546b', 'request_id': '3d16fdd3-60ad-9330-88f6-abea9331546b'}, 结果: NQA_9
+2025-03-20 03:08:43 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:08:44 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:08:44 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:08:44 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:08:45 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:08:49 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:08:52 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:08:52 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:08:52 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:08:52 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:08:53 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:08:58 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:00 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:01 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:01 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:02 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:02 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:07 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:09 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:10 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:10 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:11 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:11 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:15 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-20 03:09:15 - ERROR - 处理结果时出错: Error code: 400 - {'error': {'code': 'data_inspection_failed', 'param': None, 'message': 'Input data may contain inappropriate content.', 'type': 'data_inspection_failed'}, 'id': 'chatcmpl-d347bbac-1767-9515-a199-92bfb2740dc9', 'request_id': 'd347bbac-1767-9515-a199-92bfb2740dc9'}, 结果: NQA_35
+2025-03-20 03:09:16 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:17 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:17 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:19 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:20 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:24 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:26 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:26 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:26 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:28 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:28 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:33 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:34 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:35 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:35 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:37 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:37 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:40 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-20 03:09:40 - ERROR - 处理结果时出错: Error code: 400 - {'error': {'code': 'data_inspection_failed', 'param': None, 'message': 'Input data may contain inappropriate content.', 'type': 'data_inspection_failed'}, 'id': 'chatcmpl-7318f4e7-588f-9910-a5a4-fb068a4269ab', 'request_id': '7318f4e7-588f-9910-a5a4-fb068a4269ab'}, 结果: NQA_50
+2025-03-20 03:09:41 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:42 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:44 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:45 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:46 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:48 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:50 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:50 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:53 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:53 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:55 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:57 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:09:59 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:01 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:02 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:03 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:04 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:06 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:08 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:09 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-20 03:10:09 - ERROR - 处理结果时出错: Error code: 400 - {'error': {'code': 'data_inspection_failed', 'param': None, 'message': 'Input data may contain inappropriate content.', 'type': 'data_inspection_failed'}, 'id': 'chatcmpl-010bf13a-17eb-9931-abfa-707ac7b03fd6', 'request_id': '010bf13a-17eb-9931-abfa-707ac7b03fd6'}, 结果: TQA_11
+2025-03-20 03:10:11 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:11 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:11 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:15 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:17 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:17 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:20 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:21 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:21 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:23 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:26 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:27 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:29 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:30 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:30 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:32 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:35 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:37 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:39 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:39 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:40 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:42 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:44 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:47 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:48 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:48 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:50 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:52 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:52 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:55 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-20 03:10:55 - ERROR - 处理结果时出错: Error code: 400 - {'error': {'code': 'data_inspection_failed', 'param': None, 'message': 'Input data may contain inappropriate content.', 'type': 'data_inspection_failed'}, 'id': 'chatcmpl-a2cddb9c-3b48-9649-8750-c65bc32b6a0a', 'request_id': 'a2cddb9c-3b48-9649-8750-c65bc32b6a0a'}, 结果: TQA_41
+2025-03-20 03:10:56 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:57 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:10:58 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:00 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:01 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:05 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:05 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:05 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:06 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:09 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:10 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:13 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:14 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:14 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:15 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:18 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:18 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:22 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:22 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:23 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:24 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:26 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:27 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:31 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:32 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:32 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:32 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:35 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:36 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:40 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:40 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:40 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:41 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:41 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-20 03:11:41 - ERROR - 处理结果时出错: Error code: 400 - {'error': {'code': 'data_inspection_failed', 'param': None, 'message': 'Input data may contain inappropriate content.', 'type': 'data_inspection_failed'}, 'id': 'chatcmpl-55c12640-91be-9477-808e-abd828b10027', 'request_id': '55c12640-91be-9477-808e-abd828b10027'}, 结果: AC_30
+2025-03-20 03:11:44 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:45 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-20 03:11:45 - ERROR - 处理结果时出错: Error code: 400 - {'error': {'code': 'data_inspection_failed', 'param': None, 'message': 'Input data may contain inappropriate content.', 'type': 'data_inspection_failed'}, 'id': 'chatcmpl-927957ac-e725-9f98-8c47-8e31b97eb557', 'request_id': '927957ac-e725-9f98-8c47-8e31b97eb557'}, 结果: AC_32
+2025-03-20 03:11:48 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:48 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:49 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:50 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:53 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:53 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:56 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:57 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:58 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:11:59 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:02 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:02 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:05 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:06 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:08 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:08 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:10 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:10 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:14 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:15 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:16 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:17 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:19 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:19 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:22 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:24 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:24 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:26 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 03:12:26 - INFO - Question ID: NQA_0
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what did the woman take out from the oven after opening it?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_1
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what are the man in a suit and the woman in a shirt doing while sitting outdoors in front of a table?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_2
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, how many moving objects are there when the video ends?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_3
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what is the man wearing a yellow short sleeve shirt and black shorts doing on high ground?
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_4
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what instrument is the woman in the red dress playing by the water?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_5
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, if the rubber cylinder is removed, which of the following will not happen?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_6
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what is the white cup filled with black liquid placed on?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_7
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what word is spelled out with various vegetables on the flat pan?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_8
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, what shape is the stationary rubber object when the purple cylinder enters the scene?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_9
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: How many bats hanging upside down on the tree branches in the video?
+2025-03-20 03:12:26 - INFO - Answer: Unknown
+2025-03-20 03:12:26 - INFO - video_tokens_usage:Unknown
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - 数据已成功追加到文件: ./MLVU/data/MLVUTest/my_test_res.json
+2025-03-20 03:12:26 - INFO - Question ID: NQA_10
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what are the man and woman doing under the tree full of flowers?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_11
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what is the long-haired woman in a black skirt doing?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_12
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: What is the pink toy the child is playing with in the video?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_13
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: What are the two women wearing black vests and black pants doing in the video?
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_14
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, under the blue sky and white clouds, how many trees are there in total on both sides of the door of the white building with a flag floating on the roof?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_15
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what are the man and woman doing under the tree full of flowers?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_16
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what is on the tip of the tower next to the building with a red roof?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_17
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what word is spelled out with various vegetables on the flat pan?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_18
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what did the woman take out from the oven after opening it?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_19
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what is on the tip of the tower next to the building with a red roof?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - 数据已成功追加到文件: ./MLVU/data/MLVUTest/my_test_res.json
+2025-03-20 03:12:26 - INFO - Question ID: NQA_20
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, which of the following is not responsible for the collision between the blue cylinder and the blue sphere?
+2025-03-20 03:12:26 - INFO - Answer: F
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_21
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what is the woman wearing a suit and a black tie, sitting on the bench, holding in her hand?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_22
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, how many white swans are there on the water surface?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_23
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, what shape is the moving metal object when the cyan object enters the scene?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_24
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what color clothes is the woman with beige hair wearing while carefully listening to the doctor's explanation?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_25
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, how many objects enter the scene?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_26
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, what is the material of the object to collide with the cyan cylinder?
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_27
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, what is the material of the last object to collide with the rubber cube?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_28
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what kind of emotion does the blue-eyed male doctor reveal in the conversation?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_29
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, what is the shape of the first object that enters the scene?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - 数据已成功追加到文件: ./MLVU/data/MLVUTest/my_test_res.json
+2025-03-20 03:12:26 - INFO - Question ID: NQA_30
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, which of the following is not responsible for the collision between the rubber sphere and the cylinder?
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_31
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: What is the pink toy the child is playing with in the video?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_32
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what is the man wearing a yellow short sleeve shirt and black shorts doing on high ground?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_33
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what falls into the transparent glass bowl?
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_34
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, which of the following will not happen without the rubber sphere?
+2025-03-20 03:12:26 - INFO - Answer: F
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_35
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what is the long-haired woman in a black skirt doing?
+2025-03-20 03:12:26 - INFO - Answer: Unknown
+2025-03-20 03:12:26 - INFO - video_tokens_usage:Unknown
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_36
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, what color is the object that exits the scene?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_37
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: How many bats hanging upside down on the tree branches in the video?
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_38
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what fruit falls into the water from above?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_39
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: What are the two women wearing black vests and black pants doing in the video?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - 数据已成功追加到文件: ./MLVU/data/MLVUTest/my_test_res.json
+2025-03-20 03:12:26 - INFO - Question ID: NQA_40
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, how many red objects are moving?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_41
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what is the white cup filled with black liquid placed on?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_42
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, how many white swans are there on the water surface?
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_43
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, which of the following is not responsible for the yellow cylinder's colliding with the purple cylinder?
+2025-03-20 03:12:26 - INFO - Answer: F
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_44
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, which of the following is not responsible for the blue sphere's colliding with the cylinder?
+2025-03-20 03:12:26 - INFO - Answer: F
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_45
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what fruit falls into the water from above?
+2025-03-20 03:12:26 - INFO - Answer: F
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_46
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what pattern did the woman in the blue nurse uniform draw in the air with a pen?
+2025-03-20 03:12:26 - INFO - Answer: F
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_47
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what is the woman wearing a suit and a black tie, sitting on the bench, holding in her hand?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_48
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, how many rubber cylinders enter the scene after the sphere enters the scene?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_49
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, how many rubber cylinders exit the scene after the cube enters the scene?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - 数据已成功追加到文件: ./MLVU/data/MLVUTest/my_test_res.json
+2025-03-20 03:12:26 - INFO - Question ID: NQA_50
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what falls into the transparent glass bowl?
+2025-03-20 03:12:26 - INFO - Answer: Unknown
+2025-03-20 03:12:26 - INFO - video_tokens_usage:Unknown
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_51
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what kind of emotion does the blue-eyed male doctor reveal in the conversation?
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_52
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what pattern did the woman in the blue nurse uniform draw in the air with a pen?
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_53
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what instrument is the woman in the red dress playing by the water?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_54
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, what material is the last object that enters the scene?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_55
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what are the man in a suit and the woman in a shirt doing while sitting outdoors in front of a table?
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_56
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, without the brown metal cylinder, which of the following will happen?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_57
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the collision event of objects in the video, without the cyan rubber object, what will happen?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_58
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what color clothes is the woman with beige hair wearing while carefully listening to the doctor's explanation?
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: NQA_59
+2025-03-20 03:12:26 - INFO - Question Type: needleQA
+2025-03-20 03:12:26 - INFO - Question: In the video, under the blue sky and white clouds, how many trees are there in total on both sides of the door of the white building with a flag floating on the roof?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - 数据已成功追加到文件: ./MLVU/data/MLVUTest/my_test_res.json
+2025-03-20 03:12:26 - INFO - Question ID: TQA_0
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: Which action is performed after punching a hole in the bottle cap
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_1
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: What operation is performed after opening the music app in the video?
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_2
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: The sequence of actions the man takes while cooking
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_3
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: The sequence in which the woman grinds objects in the container
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_4
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: Which action is performed after the man has prepared the raw fish?
+2025-03-20 03:12:26 - INFO - Answer: F
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_5
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: The sequence of handling the colors of the paper in the video
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_6
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: In the video, which action is performed after drawing the general outline of the character
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_7
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what operation was performed after defining x and y?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_8
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: What is the sequence of images processed in the video?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_9
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: What is the sequence in which the man processes the vegetables?
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - 数据已成功追加到文件: ./MLVU/data/MLVUTest/my_test_res.json
+2025-03-20 03:12:26 - INFO - Question ID: TQA_10
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: The sequence of tools used in the video
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_11
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: What is the order of topics introduced in the video?
+2025-03-20 03:12:26 - INFO - Answer: Unknown
+2025-03-20 03:12:26 - INFO - video_tokens_usage:Unknown
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_12
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: What is the order of tools used in the video?
+2025-03-20 03:12:26 - INFO - Answer: F
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_13
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: The sequence of handling the colors of the strips in the video
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_14
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: Which technique is primarily used when editing the landscape photo in the video?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_15
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: The drawing sequence in the video
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_16
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: What is the next step after the first plot is completed in the video?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_17
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: The sequence of colors used for the strip of paper in the video
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_18
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: Sequence of tools used in the handcraft process in the video
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_19
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: What is the sequence of the man processing the food?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - 数据已成功追加到文件: ./MLVU/data/MLVUTest/my_test_res.json
+2025-03-20 03:12:26 - INFO - Question ID: TQA_20
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: What is the sequence of types of images edited in the video?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_21
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: Which action is performed after marking the paper with a pencil
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_22
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: In the video, what technique does the man use when photographing the teddy bear?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_23
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: What is the sequence of images processed in the video?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_24
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: Which action does the man perform after putting the ingredients into a glass jar?
+2025-03-20 03:12:26 - INFO - Answer: F
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_25
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: In the video, after tearing the paper off the surface of the black panels, what operation is performed?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_26
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: The sequence of actions in the origami process in the video
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_27
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: Which application is opened after 'App Store' in the video?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_28
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: The sequence of handling the color of the strips in the process in the video
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_29
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: Which action is performed after cutting the green paper?
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - 数据已成功追加到文件: ./MLVU/data/MLVUTest/my_test_res.json
+2025-03-20 03:12:26 - INFO - Question ID: TQA_30
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: What does the man do before frying the food at the end of the video?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_31
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: Sequence of tools used in the video
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_32
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: Sequence of tools used in the video
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_33
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: Which action did the man take after planting the plant in the flower pot?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_34
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: What types of charts are made in the video?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8322
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_35
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: What operations were introduced in the video?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_36
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: What operation was performed after importing data in the video?
+2025-03-20 03:12:26 - INFO - Answer: F
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8322
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_37
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: What is the main technique used when processing the photo of a person wearing a necklace?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_38
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: In the video, after the man adjusts the aperture of the camera pointed at the lamp on the table, what does he photograph next?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_39
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: The sequence of actions in the origami process in the video
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - 数据已成功追加到文件: ./MLVU/data/MLVUTest/my_test_res.json
+2025-03-20 03:12:26 - INFO - Question ID: TQA_40
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: The sequence of origami actions in the video
+2025-03-20 03:12:26 - INFO - Answer: F
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_41
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: In the video, after demonstrating the calculator function, what function is shown next?
+2025-03-20 03:12:26 - INFO - Answer: Unknown
+2025-03-20 03:12:26 - INFO - video_tokens_usage:Unknown
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: TQA_42
+2025-03-20 03:12:26 - INFO - Question Type: tutorialQA
+2025-03-20 03:12:26 - INFO - Question: What is the main technique used in processing the landscape photo in the video?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:8962
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_0
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'pole vault' action
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_1
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'playing trombone' action
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_2
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'jetskiing' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_3
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'javelin throw' action
+2025-03-20 03:12:26 - INFO - Answer: F
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_4
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'carving pumpkin' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_5
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many instances are there of the 'playing harp' action scene in total?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_6
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'abseiling' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - 数据已成功追加到文件: ./MLVU/data/MLVUTest/my_test_res.json
+2025-03-20 03:12:26 - INFO - Question ID: AC_7
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'abseiling' action
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_8
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'javelin throw' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_9
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many instances are there of the 'milking cow' action scene in total?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_10
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'paragliding' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_11
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many instances are there of the 'cleaning toilet' action scene in total?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_12
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'jetskiing' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_13
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many instances are there of the 'tossing coin' action scene in total?
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_14
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'pole vault' action
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_15
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many instances are there of the 'water sliding' action scene in total?
+2025-03-20 03:12:26 - INFO - Answer: F
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_16
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'zumba' action
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - 数据已成功追加到文件: ./MLVU/data/MLVUTest/my_test_res.json
+2025-03-20 03:12:26 - INFO - Question ID: AC_17
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many instances are there of the 'pole vault' action scene in total?
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_18
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many instances are there of the 'making jewelry' action scene in total?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_19
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'shredding paper' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_20
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'zumba' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_21
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'abseiling' action
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_22
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'cooking sausages' action
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_23
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'baking cookies' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_24
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'baking cookies' action
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_25
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'jetskiing' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_26
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'cooking sausages' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - 数据已成功追加到文件: ./MLVU/data/MLVUTest/my_test_res.json
+2025-03-20 03:12:26 - INFO - Question ID: AC_27
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'clean and jerk' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_28
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many instances are there of the 'playing harp' action scene in total?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_29
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many instances are there of the 'paragliding' action scene in total?
+2025-03-20 03:12:26 - INFO - Answer: F
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_30
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'playing harp' action
+2025-03-20 03:12:26 - INFO - Answer: Unknown
+2025-03-20 03:12:26 - INFO - video_tokens_usage:Unknown
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_31
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'stomping grapes' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_32
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'stomping grapes' action
+2025-03-20 03:12:26 - INFO - Answer: Unknown
+2025-03-20 03:12:26 - INFO - video_tokens_usage:Unknown
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_33
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many instances are there of the 'carving pumpkin' action scene in total?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_34
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'shredding paper' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_35
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many instances are there of the 'milking cow' action scene in total?
+2025-03-20 03:12:26 - INFO - Answer: F
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_36
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'water sliding' action
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - 数据已成功追加到文件: ./MLVU/data/MLVUTest/my_test_res.json
+2025-03-20 03:12:26 - INFO - Question ID: AC_37
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many instances are there of the 'riding mule' action scene in total?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_38
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'zumba' action
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_39
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many instances are there of the 'milking cow' action scene in total?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_40
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'cooking sausages' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_41
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many instances are there of the 'baking cookies' action scene in total?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_42
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many instances are there of the 'playing trombone' action scene in total?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_43
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'cleaning toilet' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_44
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'carving pumpkin' action
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_45
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'cleaning toilet' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_46
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'tossing coin' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - 数据已成功追加到文件: ./MLVU/data/MLVUTest/my_test_res.json
+2025-03-20 03:12:26 - INFO - Question ID: AC_47
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'making jewelry' action
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_48
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'paragliding' action
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_49
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'stomping grapes' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_50
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'clean and jerk' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: D
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_51
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many instances are there of the 'clean and jerk' action scene in total?
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_52
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'playing trombone' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_53
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'riding mule' action
+2025-03-20 03:12:26 - INFO - Answer: F
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_54
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'shredding paper' action
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_55
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many instances are there of the 'making jewelry' action scene in total?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_56
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'water sliding' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: A
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - 数据已成功追加到文件: ./MLVU/data/MLVUTest/my_test_res.json
+2025-03-20 03:12:26 - INFO - Question ID: AC_57
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'tossing coin' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: E
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_58
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: In this video, how many times does the scene of the 'javelin throw' action appear in total?
+2025-03-20 03:12:26 - INFO - Answer: C
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - Question ID: AC_59
+2025-03-20 03:12:26 - INFO - Question Type: count
+2025-03-20 03:12:26 - INFO - Question: Throughout this video, what is the total count of occurrences for the scene featuring the 'riding mule' action
+2025-03-20 03:12:26 - INFO - Answer: B
+2025-03-20 03:12:26 - INFO - video_tokens_usage:7042
+2025-03-20 03:12:26 - INFO - --------------------------------------------------
+2025-03-20 03:12:26 - INFO - 数据已成功追加到文件: ./MLVU/data/MLVUTest/my_test_res.json
